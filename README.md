@@ -23,17 +23,19 @@ helping retailers understand which product and outlet properties play a crucial 
 
 <img width="635" height="453" alt="donut plot" src="https://github.com/user-attachments/assets/28f60d0e-f24b-412f-8317-8bbcba52b39a" />
 
-- 💡Findings
+- **💡Findings**
 
     - Majority of sales come from Supermarket Type1.
     - Grocery Stores contribute the least to total sales.
     - Larger supermarkets dominate sales due to higher customer traffic and wider product variety.
-      
+
+
+
 ***Which product types sell better depending on fat content ?***
 
 <img width="850" height="601" alt="bar plot" src="https://github.com/user-attachments/assets/c421db21-0f48-455b-b1a0-d84e10f18d1d" />
 
-- 💡Findings
+- **💡Findings**
     - Dominant Product Categories
 
         - Fruits and Vegetables, Snack Foods, and Frozen Foods show the highest total sales across all categories.
@@ -52,6 +54,7 @@ helping retailers understand which product and outlet properties play a crucial 
         - For drinks (Soft Drinks, Hard Drinks), consumers prefer Regular options instead of Low Fat.
     
 **Summary:**
+
 Low Fat is the leading driver of sales in most food categories, while Regular dominates in drinks. Businesses could capitalize on expanding Low Fat food offerings, while exploring healthier drink options to balance the market.
 
 
