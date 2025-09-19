@@ -47,9 +47,10 @@ helping retailers understand which product and outlet properties play a crucial 
         - Regular fat products lead significantly in Soft Drinks and Hard Drinks.
 
         - Categories like Meat and Breakfast are more balanced but slightly inclined toward Regular.
-  - Consumer Preference
+    - Consumer Preference
         - Customers clearly prefer Low Fat options in food-related items (Dairy, Frozen Foods, Fruits & Vegetables, Snack Foods).
         - For drinks (Soft Drinks, Hard Drinks), consumers prefer Regular options instead of Low Fat.
+    
 **Summary:**
 Low Fat is the leading driver of sales in most food categories, while Regular dominates in drinks. Businesses could capitalize on expanding Low Fat food offerings, while exploring healthier drink options to balance the market.
 
